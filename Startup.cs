@@ -45,7 +45,7 @@ namespace aspnetcore3._1
 
             app.UseRouting();
 
-            app.UseAuthorization();
+            //app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
